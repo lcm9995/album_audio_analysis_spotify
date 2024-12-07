@@ -1,2 +1,4 @@
 # album_audio_analysis_spotify
-Simple Python program using the Spotify Web API to create and display data visualization of user-selected audio feature for each track of a user-inputed album using Matlab
+This project utilizes the Spotify Web API to retrieve and visualize audio features of tracks from a user-inputted album. The program allows users to select an album, fetches the corresponding audio features for each track, and then generates a data visualization of the selected audio feature using MATLAB.
+
+
